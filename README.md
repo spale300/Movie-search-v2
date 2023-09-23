@@ -1,4 +1,4 @@
-# Link for the app -> https://movie-search-v2.netlify.app/
+# Live link -> https://movie-search-v2.netlify.app/
 
 # Getting Started with Create React App
 
